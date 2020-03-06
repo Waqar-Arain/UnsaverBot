@@ -1,5 +1,5 @@
 # UnsaverBot
-## Intagram post unsaver bot built on selenium
+## Instagram post unsaver bot built on selenium
 This script automates the process of unsaving the saved posts of your instagram account. Just launch the script and it will do your work automatically.
 - Note: Your internet speed must not be lacking, otherwise the program will fail to work because the elements of the page might not have been loaded before the program requests for those elements.
 - Note: It will unsave 100 saved posts in one run, you can change it from code to whatever number you want on line 45.
